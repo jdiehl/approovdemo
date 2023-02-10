@@ -10,6 +10,7 @@
 ## Setup
 
 * Install node packages by running `npm i`
+* Update the configuration by runningn `npm run configure`
 
 ## Test with Mendix Cloud
 
