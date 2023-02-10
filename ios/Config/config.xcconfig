@@ -3,6 +3,6 @@ PRODUCT_BUNDLE_IDENTIFIER = $(BUNDLE_IDENTIFIER)$(BUNDLE_IDENTIFIER_APPEND)
 BUNDLE_DISPLAY_NAME = ApproovDemo
 BUNDLE_IDENTIFIER = myapp.approovdemo
 
-RUNTIME_URL = http:\/\/localhost:8080
+RUNTIME_URL = https:\/\/approovdemo-sandbox.mxapps.io
 
 PRODUCT_NAME = ApproovDemo
